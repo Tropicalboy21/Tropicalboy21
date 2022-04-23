@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/lenin_21/)
 
 ### Languages and Tools:
 
