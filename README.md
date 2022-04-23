@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="linkedin.com/in/lenin-ugalde-7094a7177" style="padding-right:10px" style="padding-right:10px;" />
+<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/lenin-ugalde-7094a7177/" style="padding-right:10px" style="padding-right:10px;" />
 
 <br />
 
