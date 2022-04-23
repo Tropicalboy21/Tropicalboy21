@@ -1,4 +1,8 @@
-# Hi there, I’m lenin - aka @Tropicalboy21 👋
+# Hi there, I’m Lenin - aka @Tropicalboy21 👋
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
 ## I'm Developer, Designer, and an artist!!
 
@@ -10,9 +14,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.png)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.png)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+# `r fa("r-project", fill = "steelblue")`
 
 <br />
 
