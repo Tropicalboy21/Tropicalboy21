@@ -10,7 +10,8 @@
 
 ### Connect with me:
 
-<img src="https://www.seekpng.com/png/detail/9-94934_instagram-svg.png" alt="Instagram Svg@seekpng.com">
+[![website](./img/instagram-light.svg)](https://codestackr.com#gh-light-mode-only)
+
 
 <br />
 
