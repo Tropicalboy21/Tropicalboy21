@@ -1,9 +1,5 @@
 # Hi there, I’m Lenin - aka @Tropicalboy21 👋
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-
 ## I'm Developer, Designer, and an artist!!
 
 - 👀 I’m interested in Front end Web development and mobile applications.
@@ -14,7 +10,7 @@ library(fontawesome)
 
 ### Connect with me:
 
-# `r fa("r-project", fill = "steelblue")`
+<img src="https://www.seekpng.com/png/detail/9-94934_instagram-svg.png" alt="Instagram Svg@seekpng.com">
 
 <br />
 
