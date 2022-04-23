@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <img align="left" alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px" style="padding-right:10px;" />
-<img align="left" alt="instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" style="padding-right:10px" style="padding-right:10px;" />
+<img align="left" alt="instagram" width="26px" src="https://w7.pngwing.com/pngs/454/401/png-transparent-logo-instagram-text-logo-number.png" style="padding-right:10px" style="padding-right:10px;" />
 
 <br />
 
