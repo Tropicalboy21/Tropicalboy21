@@ -11,6 +11,8 @@
 ### Connect with me:
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/lenin_21/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
+[![website](./img/globe-light.svg)]()
 
 ### Languages and Tools:
 
