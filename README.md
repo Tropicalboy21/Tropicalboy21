@@ -2,7 +2,7 @@
 
 ## I'm Developer, Designer, and an artist!!
 
-- 👀 I’m interested in Front end Web development and applications.
+- 👀 I’m interested in Front end Web development and mobile applications.
 - 🌱 I’m Constantly learning about everything.
 - 💞️ I’m looking to collaborate with other developers!.
 - 🥅 2022 Goals: Learn more about code.
@@ -10,8 +10,20 @@
 
 ### Connect with me:
 
-<img align="left" alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px" style="padding-right:10px;" />
-<img align="left" alt="instagram" width="26px" src="https://w7.pngwing.com/pngs/454/401/png-transparent-logo-instagram-text-logo-number.png" style="padding-right:10px" style="padding-right:10px;" />
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 <br />
 
