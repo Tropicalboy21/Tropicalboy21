@@ -12,10 +12,10 @@
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/lenin_21/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/lenin_21/)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/globe-light.svg)]()
 [![website](./img/globe-dark.svg)]()
 
