@@ -2,7 +2,7 @@
 
 ## I'm Developer, Designer, and an artist!!
 
-- 👀 I’m interested in Front end Web development and mobile applications.
+- 👀 I’m interested in Web and mobile applications development.
 - 🌱 I’m Constantly learning about everything.
 - 💞️ I’m looking to collaborate with other developers!.
 - 🥅 2022 Goals: Learn more about code.
