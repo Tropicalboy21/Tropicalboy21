@@ -1,6 +1,6 @@
-# Hi there, I’m Lenin - aka @Tropicalboy21 👋
+# Hi there, I’m Lenin 👋
 
-## I'm Developer, Designer, and an artist!!
+## I'm Artist, Designer, and a Developer!
 
 - 👀 I’m interested in Web and mobile applications development.
 - 🌱 I’m Constantly learning about everything.
@@ -13,8 +13,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
 &nbsp;
-[![website](./img/globe-light.svg)](https://radiant-brushlands-18581.herokuapp.com/)
-[![website](./img/globe-dark.svg)](https://radiant-brushlands-18581.herokuapp.com/)
+[![website](./img/globe-light.svg)]([https://radiant-brushlands-18581.herokuapp.com/](https://tropicalboy21.github.io/proyecto-motocross/Examen/one-page.html))
+[![website](./img/globe-dark.svg)]([https://radiant-brushlands-18581.herokuapp.com/](https://tropicalboy21.github.io/proyecto-motocross/Examen/one-page.html))
 
 ### Languages and Tools:
 
