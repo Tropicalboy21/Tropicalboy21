@@ -7,13 +7,6 @@
 - 🥅 2022 Goals: Learn more about code.
 - ⚡️ Fun fact: I love to draw and listening to music.
 
-### Connect with me:
-
-&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lenin-ugalde-7094a7177/)
-&nbsp;
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" style="padding-right:10px;" />
