@@ -1,6 +1,6 @@
-# Hi there, I’m Lenin 👋
+### Hi there, I’m Lenin 👋
 
-# I'm a Developer and Designer!
+## I'm a Developer and Designer!
 
 - 👀 I’m interested in software development.
 - 🌱 I’m Constantly learning about everything.
