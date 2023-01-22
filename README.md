@@ -1,10 +1,10 @@
 # Hi there, I’m Lenin 👋
 
-## I'm Artist, Designer, and a Developer!
+## I'm a Developer and Designer!
 
-- 👀 I’m interested in Web and mobile applications development.
+- 👀 I’m interested in software development.
 - 🌱 I’m Constantly learning about everything.
-- 🥅 2022 Goals: Learn more about code.
+- 🥅 2023 Goals: work in building software.
 - ⚡️ Fun fact: I love to draw and listening to music.
 
 ### Languages and Tools:
