@@ -1,11 +1,17 @@
-### Hi there, I’m Lenin 👋
+### Hi there, I’m Lenin Ugalde👋
 
-## I'm a Developer and Designer!
+## I'm a Software Developer and Designer.
 
-- 👀 I’m interested in software development.
-- 🌱 I’m Constantly learning about everything.
-- 🥅 2023 Goals: work building software.
-- ⚡️ Fun fact: I love to draw and listening to music.
+I’m interested in software development , constantly learning about the latest development technologies. 
+Fun fact: I love to draw and listening to music.
+
+Based in Costa Rica 🇨🇷.
+
+Take a look at my portafolio Project: 
+
+[Lenin Ugalde's portafolio](https://tropicalboy21.github.io/portafolio/portafolio.html)
+
+
 
 ### Languages and Tools:
 
