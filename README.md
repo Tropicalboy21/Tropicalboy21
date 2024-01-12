@@ -27,6 +27,7 @@ Take a look at my portafolio Project:
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
 
 
 <!---
