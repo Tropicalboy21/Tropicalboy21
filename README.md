@@ -29,6 +29,10 @@ Take a look at my portafolio Project:
 <img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
 
+### My Stats:
+<!--<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/>-->
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tropicalboy21&layout=compact"/>
+
 
 <!---
 Tropicalboy21/Tropicalboy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
